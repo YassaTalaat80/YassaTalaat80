@@ -6,7 +6,6 @@
 ### 🛠️ Technologies & Skills
 - **Programming Languages:** C++, Java ,Python, SQL
 - **Database:** Sql Server
-- **Operating Systems:** Linux
 - **Tools & Technologies:** Git, GitHub, SOLID Principles, Object-Oriented Programming (OOP)
 
 ---
